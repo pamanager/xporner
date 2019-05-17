@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xporner.cc/sitemap.xml
